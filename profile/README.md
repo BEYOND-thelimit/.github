@@ -12,5 +12,5 @@ Our team is all made up of developers.
 [김다현](https://github.com/Dadaah)||||
 김정목||||
 [류태훈](https://github.com/taehun-ryu)|Software developer|SLAM, Robotics, Deep learning|xogns2079@gmail.com|
-배승학||||
+[배승학](https://github.com/crane1227)||||
 
