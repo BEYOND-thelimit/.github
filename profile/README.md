@@ -7,7 +7,7 @@ Our team is all made up of developers.
 
 |Person|Role|Interest|Contact|
 |---|---|---|---|
-[양지윤(Jiyun Yang](https://github.com/jiyun2206)|Team Leader|||
+[양지윤(Jiyun Yang)](https://github.com/jiyun2206)|Team Leader|||
 [권근우(Geunwoo Kwon)](https://github.com/kwongeunwoo)|Software Engineer|Controls, Robotics, Human–robot collaboration|gunwoo00@hanyang.ac.kr|
 [김다현](https://github.com/Dadaah)||||
 [김정목](https://github.com/K2mjeongmok)|Mechanic Engineer|Mechanical and Electrical Design|zkxkck1234@gmail.com|
