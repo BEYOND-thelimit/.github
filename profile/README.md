@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are the Intelligent Robot Start-up Team at Hanyang University ERICA.
+We are the Intelligent Robot Team at Hanyang University ERICA.
 
 ## Our team member's information
 Our team is all made up of developers.
